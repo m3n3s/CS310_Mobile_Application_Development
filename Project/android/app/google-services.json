@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "73393140888",
+    "project_id": "capturista-f4efc",
+    "storage_bucket": "capturista-f4efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73393140888:android:c1f7fabd4656113444cced",
+        "android_client_info": {
+          "package_name": "edu.sabanciuniv.cs310_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73393140888-10oac0iqvad12l50d0c010mpdd7sqq50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sabanciuniv.cs310_project",
+            "certificate_hash": "f04be71001f8858e31eb08946c67bbb666dcf385"
+          }
+        },
+        {
+          "client_id": "73393140888-jo33lmdjrq5aheg20mut29s1lnvnr78i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sabanciuniv.cs310_project",
+            "certificate_hash": "20d9b8f7f1e60a6d0e5a3645a13b8ec1635ef59c"
+          }
+        },
+        {
+          "client_id": "73393140888-qtifsd06mtcukce6n5f27ns65eudunac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sabanciuniv.cs310_project",
+            "certificate_hash": "28238c0f5909ddc9a0968fde57058e1e47f6cd81"
+          }
+        },
+        {
+          "client_id": "73393140888-u1j40afae7g2ktq5vh8jcdj2pu2vbe0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sabanciuniv.cs310_project",
+            "certificate_hash": "df39f74031f42ceb5f16d92aee3a6668f04e0158"
+          }
+        },
+        {
+          "client_id": "73393140888-uoadjkdltgshrqmk7tuoe1u4gndoj3mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUeuPpmep3hl00DWPlKEEyeZTBkwOzoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73393140888-uoadjkdltgshrqmk7tuoe1u4gndoj3mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
