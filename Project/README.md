@@ -1,6 +1,6 @@
-# cs310_project
+# CS310 Project
 
-Social Media App
+Social Media Application
 
 ## Getting Started
 
